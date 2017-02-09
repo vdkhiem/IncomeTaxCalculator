@@ -1,0 +1,4 @@
+*.sh eol=lf
+.gitignore eol=lf
+.gitattributes eol=lf
+*.DotSettings eol=lf
